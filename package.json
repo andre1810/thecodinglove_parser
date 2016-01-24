@@ -1,7 +1,7 @@
 {
   "name": "thecodinglove_parser",
   "version": "0.0.1",
-  "description": "",
+  "description": "Wraps thecodinglove random in REST API.",
   "main": "rest_api.js",
   "scripts": {
     "start": "node rest_api.js",
@@ -17,5 +17,14 @@
     "express": "^4.13.4",
     "follow-redirects": "0.0.7",
     "html-entities": "^1.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre1810/thecodinglove_parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andre1810/thecodinglove_parser/issues"
+  },
+  "homepage": "https://github.com/andre1810/thecodinglove_parser#readme"
 }
