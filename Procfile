@@ -1,1 +1,1 @@
-web: node rest_api.js
+web: PORT=$PORT node rest_api.js
