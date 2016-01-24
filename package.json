@@ -1,6 +1,6 @@
 {
   "name": "thecodinglove_parser",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Wraps thecodinglove random in REST API.",
   "main": "rest_api.js",
   "scripts": {
