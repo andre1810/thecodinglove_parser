@@ -5,7 +5,7 @@ Wraps [thecodinglove](http://thecodinglove.com) random entries in REST API to us
 
 1. Install dependencies via `npm install`
 2. Start REST API via `npm start`
-3. Browse to http://localhost:3000/random
+3. Browse to [http://localhost:3000/random](http://localhost:3000/random)
 
 Example response of `/random`:
 ```
@@ -16,4 +16,4 @@ Example response of `/random`:
 ```  
 
 ## License
-MIT
+MIT - see [LICENSE](LICENSE)
