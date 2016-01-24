@@ -4,6 +4,7 @@
   "description": "",
   "main": "rest_api.js",
   "scripts": {
+    "start": "node rest_api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,7 +12,7 @@
     "parser"
   ],
   "author": "André Hester <mail@andre-hester.de>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.13.4",
     "follow-redirects": "0.0.7",
